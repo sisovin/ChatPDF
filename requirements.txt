@@ -1,0 +1,12 @@
+argparse
+streamlit
+click
+httpx
+embedchain
+streamlit_chat
+PyPDF2
+langchain_ollama
+langchain_community
+langchain_chroma
+langchain
+psutil

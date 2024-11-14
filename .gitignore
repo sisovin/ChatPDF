@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+*.pyc
+data
+venv
+git-how-todo.md
+samplecode_01.md

@@ -1,0 +1,550 @@
+INFO: Starting the database population process.
+INFO: Loading documents.
+INFO: Loaded 9111 documents.
+INFO: Splitting documents into chunks.
+INFO: Split documents into 25957 chunks.
+INFO: Adding chunks to Chroma.
+INFO: Number of chunks: 25957
+INFO: Number of existing documents in DB: 25957
+INFO: 👉 Adding new documents: 13823
+INFO: Added batch 1 with 5000 chunks.
+INFO: Added batch 2 with 5000 chunks.
+INFO: Added batch 3 with 3823 chunks.
+INFO: Finished adding chunks to Chroma.
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: User: How many books' title are there in all embedded context?
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Querying RAG with text: How many books' title are there in all embedded context?
+INFO: Context text: and other terms, may be easily located by using the search
+feature of your e-book reader software.
+
+Answer the question based on the above context: How many books' title are there in all embedded context?
+
+INFO: Response text: There is only 1 book's title mentioned in the provided text, which is "Meditations". However, it seems like the text is part of a larger work that consists of multiple books (Book 1 and Book 2), but only one title ("Meditations") is explicitly mentioned.
+INFO: Book Titles:
+1. Dividends Still Don't Lie The Truth About Investing in Blue Chip
+2. Be a Dividend Millionaire A Proven, Low Risk Approach That Will
+3. The Automatic Millionaire
+4. Get rich with dividends a proven system for earning double digit
+5. How Rich People Think
+6. Value Investing From Graham to Buffett and Beyond
+7. The Little Book of Big Dividends A Safe Formula for Guaranteed Returns
+8. Marcus Aurelius  Meditations, Books 1-6
+9. Principles  Life and Work
+10. The Instant Millionaire
+11. The millionaire mind
+12. The Single Best Investment Creating Wealth with Dividend Growth
+13. The Way of the Superior Man
+14. think-and-grow-rich
+15. Investing in Stocks Shares A Step by step Guide to Making Money
+16. The Intelligent Investor
+17. Stoic Six Pack Meditations of Marcus Aurelius, Golden Sayings, Fragments
+18. The Daily Stoic 366 Meditations on Wisdom, Perseverance, and the
+19. All About Dividend Investing, Second Edition All About Series
+20. The Millionaire Fastlane
+21. Your Money or Your Life
+22. Dividend Stocks For Dummies
+23. Rich Dad Poor Dad
+24. Value Investing  From Graham to Buffett and Beyond
+25. The Next Millionaire Next Door
+26. THE LITTLE BOOK OF COMMON SENSE INVESTING 2017
+27. Atomic habits
+INFO: Chatbot: There is only 1 book's title mentioned in the provided text, which is "Meditations". However, it seems like the text is part of a larger work that consists of multiple books (Book 1 and Book 2), but only one title ("Meditations") is explicitly mentioned.
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: Dividends Still Don't Lie The Truth About Investing in Blue Chip
+INFO: PDF file for title 'Dividends Still Don't Lie The Truth About Investing in Blue Chip' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: Dividends Still Don't Lie The Truth About Investing in Blue Chip
+INFO: PDF file for title 'Dividends Still Don't Lie The Truth About Investing in Blue Chip' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: User: Generate the summary of the book "Dividends Still Don't Lie The Truth About Investing in Blue Chip" with key points. 
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Querying RAG with text: Generate the summary of the book "Dividends Still Don't Lie The Truth About Investing in Blue Chip" with key points. 
+INFO: Response text: Unfortunately, there is no book mentioned in the provided context titled "Dividends Still Don't Lie The Truth About Investing in Blue Chip". However, I can create a summary based on the context of dividend investing and provide some key points related to the topic.
+
+**Summary:**
+
+"Dividend Investing Basics" provides an introduction to investing in dividend stocks. It discusses the importance of identifying promising candidates, evaluating their dividend yields, share prices, and company prospects. The book also explores various methods for reducing potential risks, such as hedging against inflation. Additionally, it covers effective ways to buy and sell shares, including dividend reinvestment plans (DRIPs), direct purchase programs (DPPs), mutual funds, exchange-traded funds (ETFs), and investing in foreign companies with high dividend yields.
+
+**Key Points:**
+
+1. **Dividend Yield**: Dividends can provide a relatively stable source of income for investors.
+2. **Hedging Against Inflation**: Dividends may help offset inflation by providing a modest return on investment.
+3. **Reinvesting Dividends**: DRIPs and DPPs allow investors to automatically reinvest their dividends, reducing the need to manually purchase additional shares.
+4. **Mutual Funds and ETFs**: These investments provide diversification and can be used to invest in a variety of dividend-paying companies.
+5. **Investing Abroad**: Investing in foreign companies with high dividend yields can provide international exposure and potential for higher returns.
+6. **Evaluating Dividend Stocks**: Key factors include dividend yield, share price, company prospects, and growth potential.
+
+Please note that this summary is based on the provided context and may not be an actual summary of a book titled "Dividends Still Don't Lie The Truth About Investing in Blue Chip".
+INFO: Book Titles:
+1. Dividends Still Don't Lie The Truth About Investing in Blue Chip
+2. Be a Dividend Millionaire A Proven, Low Risk Approach That Will
+3. Dividend Stocks For Dummies
+4. The Intelligent Investor
+5. The Ultimate Dividend Playbook Income, Insight and Independence
+6. All About Dividend Investing, Second Edition All About Series
+7. Get rich with dividends a proven system for earning double digit
+8. The Single Best Investment Creating Wealth with Dividend Growth
+9. The Little Book of Big Dividends A Safe Formula for Guaranteed Returns
+10. THE LITTLE BOOK OF COMMON SENSE INVESTING 2017
+INFO: Chatbot: Unfortunately, there is no book mentioned in the provided context titled "Dividends Still Don't Lie The Truth About Investing in Blue Chip". However, I can create a summary based on the context of dividend investing and provide some key points related to the topic.
+
+**Summary:**
+
+"Dividend Investing Basics" provides an introduction to investing in dividend stocks. It discusses the importance of identifying promising candidates, evaluating their dividend yields, share prices, and company prospects. The book also explores various methods for reducing potential risks, such as hedging against inflation. Additionally, it covers effective ways to buy and sell shares, including dividend reinvestment plans (DRIPs), direct purchase programs (DPPs), mutual funds, exchange-traded funds (ETFs), and investing in foreign companies with high dividend yields.
+
+**Key Points:**
+
+1. **Dividend Yield**: Dividends can provide a relatively stable source of income for investors.
+2. **Hedging Against Inflation**: Dividends may help offset inflation by providing a modest return on investment.
+3. **Reinvesting Dividends**: DRIPs and DPPs allow investors to automatically reinvest their dividends, reducing the need to manually purchase additional shares.
+4. **Mutual Funds and ETFs**: These investments provide diversification and can be used to invest in a variety of dividend-paying companies.
+5. **Investing Abroad**: Investing in foreign companies with high dividend yields can provide international exposure and potential for higher returns.
+6. **Evaluating Dividend Stocks**: Key factors include dividend yield, share price, company prospects, and growth potential.
+
+Please note that this summary is based on the provided context and may not be an actual summary of a book titled "Dividends Still Don't Lie The Truth About Investing in Blue Chip".
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: Dividends Still Don't Lie The Truth About Investing in Blue Chip
+INFO: PDF file for title 'Dividends Still Don't Lie The Truth About Investing in Blue Chip' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: Added Dividends Still Don't Lie The Truth About Investing in Blue Chip to the knowledge base!
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: Dividends Still Don't Lie The Truth About Investing in Blue Chip
+INFO: PDF file for title 'Dividends Still Don't Lie The Truth About Investing in Blue Chip' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: User: Generate the summary of the book "Dividends Still Don't Lie The Truth About Investing in Blue Chip" with key points.
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Querying RAG with text: Generate the summary of the book "Dividends Still Don't Lie The Truth About Investing in Blue Chip" with key points.
+INFO: Response text: Unfortunately, the provided text does not mention the book title as "Dividends Still Don't Lie The Truth About Investing in Blue Chip". However, based on the context, I can infer that the book is likely related to dividend investing.
+
+Here's a summary of the book with key points:
+
+**Title:** Not specified (based on the provided text)
+
+**Summary:**
+
+This book is about the benefits and strategies of investing in dividend stocks. It highlights the importance of evaluating and selecting promising dividend stocks, and provides guidance on how to reduce potential risks.
+
+**Key Points:**
+
+1. **Dividend stocks are a good investment**: Investing in dividend stocks can provide a steady stream of income and help consistency in your finances.
+2. **Identifying promising candidates**: Before investing in dividend stocks, you need to identify promising candidates by researching companies with a history of paying consistent dividends.
+3. **Evaluating dividend stocks**: When evaluating dividend stocks, consider factors such as the company's share price, dividend yield, and prospects for future growth.
+4. **Reducing risks**: Consider using methods such as dividend reinvestment plans (DRIPs), direct purchase programs (DPPs), mutual funds, and exchange-traded funds (ETFs) to reduce potential risks associated with investing in dividend stocks.
+5. **Long-term strategy**: Investing in dividend stocks is a long-term strategy that requires patience and discipline.
+
+**Additional Information:**
+
+* The book may include historical data and academic studies on the effectiveness of dividend increases.
+* It may provide tips on how to reinvest dividends and eliminate middlemen when buying and selling shares.
+
+Note: Without more information, it's difficult to provide a complete summary of the book. This response is based on inferences from the provided text.
+INFO: Book Titles:
+1. Dividends Still Don't Lie The Truth About Investing in Blue Chip
+2. Be a Dividend Millionaire A Proven, Low Risk Approach That Will
+3. Dividend Stocks For Dummies
+4. The Intelligent Investor
+5. The Ultimate Dividend Playbook Income, Insight and Independence
+6. All About Dividend Investing, Second Edition All About Series
+7. Get rich with dividends a proven system for earning double digit
+8. The Single Best Investment Creating Wealth with Dividend Growth
+9. The Little Book of Big Dividends A Safe Formula for Guaranteed Returns
+10. THE LITTLE BOOK OF COMMON SENSE INVESTING 2017
+INFO: Chatbot: Unfortunately, the provided text does not mention the book title as "Dividends Still Don't Lie The Truth About Investing in Blue Chip". However, based on the context, I can infer that the book is likely related to dividend investing.
+
+Here's a summary of the book with key points:
+
+**Title:** Not specified (based on the provided text)
+
+**Summary:**
+
+This book is about the benefits and strategies of investing in dividend stocks. It highlights the importance of evaluating and selecting promising dividend stocks, and provides guidance on how to reduce potential risks.
+
+**Key Points:**
+
+1. **Dividend stocks are a good investment**: Investing in dividend stocks can provide a steady stream of income and help consistency in your finances.
+2. **Identifying promising candidates**: Before investing in dividend stocks, you need to identify promising candidates by researching companies with a history of paying consistent dividends.
+3. **Evaluating dividend stocks**: When evaluating dividend stocks, consider factors such as the company's share price, dividend yield, and prospects for future growth.
+4. **Reducing risks**: Consider using methods such as dividend reinvestment plans (DRIPs), direct purchase programs (DPPs), mutual funds, and exchange-traded funds (ETFs) to reduce potential risks associated with investing in dividend stocks.
+5. **Long-term strategy**: Investing in dividend stocks is a long-term strategy that requires patience and discipline.
+
+**Additional Information:**
+
+* The book may include historical data and academic studies on the effectiveness of dividend increases.
+* It may provide tips on how to reinvest dividends and eliminate middlemen when buying and selling shares.
+
+Note: Without more information, it's difficult to provide a complete summary of the book. This response is based on inferences from the provided text.
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: The Automatic Millionaire
+INFO: PDF file for title 'The Automatic Millionaire' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: The Automatic Millionaire
+INFO: PDF file for title 'The Automatic Millionaire' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: Added The Automatic Millionaire to the knowledge base!
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: The Automatic Millionaire
+INFO: PDF file for title 'The Automatic Millionaire' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: User: Generate the summary of the book "The Automatic Millionaire" with key points.
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Querying RAG with text: Generate the summary of the book "The Automatic Millionaire" with key points.
+INFO: Response text: Here is a summary of the book "The Automatic Millionaire" by David Bach:
+
+**Key Points:**
+
+* The author, David Bach, argues that making money is not rocket science, but rather about developing good habits and automating financial decisions.
+* He introduces the concept of the "Automatic Millionaire," someone who has invested their way to financial independence without having to sacrifice anything in their personal life.
+* Bach emphasizes the importance of starting early, being consistent, and taking advantage of compound interest.
+* He provides a simple plan for getting started with investing, which involves:
+	+ Starting small and automating investments
+	+ Taking advantage of employer-matched retirement accounts
+	+ Investing in a low-cost index fund or ETF
+	+ Avoiding lifestyle inflation and living below one's means
+* Bach also discusses the importance of having multiple income streams and building wealth over time.
+
+**Key Takeaways:**
+
+* Anyone can become an Automatic Millionaire with discipline, patience, and a solid plan.
+* Automating investments is key to achieving financial independence.
+* It's not about getting rich quickly, but rather about consistently growing your wealth over time.
+* Living below one's means and avoiding lifestyle inflation are crucial for building wealth.
+
+**Key Concepts:**
+
+* "The Latte Factor": Spending $5 per day on lattes may seem insignificant, but it can add up to $1,800 per year. Bach argues that small, everyday expenses like this can be cut back to make room for investing and saving.
+* "The Coffee Budget": Bach encourages readers to cut back on discretionary spending and allocate the saved money towards investments.
+
+Overall, "The Automatic Millionaire" is a practical and accessible guide to building wealth and achieving financial independence. By automating investments and developing good habits, anyone can become an Automatic Millionaire and start building their way to financial freedom.
+INFO: Book Titles:
+1. think-and-grow-rich
+2. Investing in Stocks Shares A Step by step Guide to Making Money
+3. Principles  Life and Work
+4. Be a Dividend Millionaire A Proven, Low Risk Approach That Will
+5. The Automatic Millionaire
+6. The millionaire mind
+7. The Instant Millionaire
+8. The Intelligent Investor
+9. Dividend Stocks For Dummies
+10. Rich Dad Poor Dad
+11. The Ultimate Dividend Playbook Income, Insight and Independence
+12. The Next Millionaire Next Door
+13. Get rich with dividends a proven system for earning double digit
+14. How Rich People Think
+15. The Millionaire Fastlane
+16. The Little Book of Big Dividends A Safe Formula for Guaranteed Returns
+17. THE LITTLE BOOK OF COMMON SENSE INVESTING 2017
+INFO: Chatbot: Here is a summary of the book "The Automatic Millionaire" by David Bach:
+
+**Key Points:**
+
+* The author, David Bach, argues that making money is not rocket science, but rather about developing good habits and automating financial decisions.
+* He introduces the concept of the "Automatic Millionaire," someone who has invested their way to financial independence without having to sacrifice anything in their personal life.
+* Bach emphasizes the importance of starting early, being consistent, and taking advantage of compound interest.
+* He provides a simple plan for getting started with investing, which involves:
+	+ Starting small and automating investments
+	+ Taking advantage of employer-matched retirement accounts
+	+ Investing in a low-cost index fund or ETF
+	+ Avoiding lifestyle inflation and living below one's means
+* Bach also discusses the importance of having multiple income streams and building wealth over time.
+
+**Key Takeaways:**
+
+* Anyone can become an Automatic Millionaire with discipline, patience, and a solid plan.
+* Automating investments is key to achieving financial independence.
+* It's not about getting rich quickly, but rather about consistently growing your wealth over time.
+* Living below one's means and avoiding lifestyle inflation are crucial for building wealth.
+
+**Key Concepts:**
+
+* "The Latte Factor": Spending $5 per day on lattes may seem insignificant, but it can add up to $1,800 per year. Bach argues that small, everyday expenses like this can be cut back to make room for investing and saving.
+* "The Coffee Budget": Bach encourages readers to cut back on discretionary spending and allocate the saved money towards investments.
+
+Overall, "The Automatic Millionaire" is a practical and accessible guide to building wealth and achieving financial independence. By automating investments and developing good habits, anyone can become an Automatic Millionaire and start building their way to financial freedom.
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: The Automatic Millionaire
+INFO: PDF file for title 'The Automatic Millionaire' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: User: How many chapter are there in the the book "The Automatic Millionaire" by David Bach?
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Querying RAG with text: How many chapter are there in the the book "The Automatic Millionaire" by David Bach?
+INFO: Response text: There is no information about a specific book titled "The Automatic Millionaire" by David Bach. However, David Bach did write a book called "The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich". The chapter count for this book is not specified in the provided text.
+INFO: Book Titles:
+1. Be a Dividend Millionaire A Proven, Low Risk Approach That Will
+2. The Automatic Millionaire
+3. The Ultimate Dividend Playbook Income, Insight and Independence
+4. Get rich with dividends a proven system for earning double digit
+5. How Rich People Think
+6. Value Investing From Graham to Buffett and Beyond
+7. The Little Book of Big Dividends A Safe Formula for Guaranteed Returns
+8. Principles  Life and Work
+9. The Instant Millionaire
+10. The millionaire mind
+11. The Way of the Superior Man
+12. think-and-grow-rich
+13. Investing in Stocks Shares A Step by step Guide to Making Money
+14. The Intelligent Investor
+15. The Daily Stoic 366 Meditations on Wisdom, Perseverance, and the
+16. All About Dividend Investing, Second Edition All About Series
+17. The Millionaire Fastlane
+18. Dividend Stocks For Dummies
+19. Rich Dad Poor Dad
+20. The Next Millionaire Next Door
+21. THE LITTLE BOOK OF COMMON SENSE INVESTING 2017
+INFO: Chatbot: There is no information about a specific book titled "The Automatic Millionaire" by David Bach. However, David Bach did write a book called "The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich". The chapter count for this book is not specified in the provided text.
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Main function completed
+INFO: Starting the database population process.
+INFO: Loading documents.
+INFO: Loaded 9302 documents.
+INFO: Splitting documents into chunks.
+INFO: Split documents into 26395 chunks.
+INFO: Adding chunks to Chroma.
+INFO: Number of chunks: 26395
+INFO: Number of existing documents in DB: 39780
+INFO: 👉 Adding new documents: 438
+INFO: Added batch 1 with 438 chunks.
+INFO: Finished adding chunks to Chroma.
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+ERROR: Please select a PDF title before submitting.
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: User: How many books' title are there in the embedded context?
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Querying RAG with text: How many books' title are there in the embedded context?
+INFO: Response text: There are 6 books mentioned in the embedded context, but only Book 1's title is explicitly stated. The titles of the other books are not specified, except for mentioning that Book 1 was written later than some of the others (Book 5 and possibly Book 6).
+INFO: Book Titles:
+1. think-and-grow-rich
+2. The Next Millionaire Next Door
+3. Dividend Stocks For Dummies
+4. The Single Best Investment Creating Wealth with Dividend Growth
+5. Value Investing  From Graham to Buffett and Beyond
+6. The Intelligent Investor
+7. The Daily Stoic 366 Meditations on Wisdom, Perseverance, and the
+8. Your Money or Your Life
+9. Investing in Stocks Shares A Step by step Guide to Making Money
+10. Dividends Still Don't Lie The Truth About Investing in Blue Chip
+11. How Rich People Think
+12. The Ultimate Dividend Playbook Income, Insight and Independence
+13. The Little Book of Big Dividends A Safe Formula for Guaranteed Returns
+14. Principles  Life and Work
+15. All About Dividend Investing, Second Edition All About Series
+16. Marcus Aurelius  Meditations, Books 1-6
+17. Rich Dad Poor Dad
+18. The millionaire mind
+19. The Richest Man in Babylon
+20. Be a Dividend Millionaire A Proven, Low Risk Approach That Will
+21. The Millionaire Fastlane
+22. Atomic habits
+23. THE LITTLE BOOK OF COMMON SENSE INVESTING 2017
+24. The Instant Millionaire
+25. The Way of the Superior Man
+26. Value Investing From Graham to Buffett and Beyond
+27. The Automatic Millionaire
+28. Stoic Six Pack Meditations of Marcus Aurelius, Golden Sayings, Fragments
+29. Get rich with dividends a proven system for earning double digit
+INFO: Chatbot: There are 6 books mentioned in the embedded context, but only Book 1's title is explicitly stated. The titles of the other books are not specified, except for mentioning that Book 1 was written later than some of the others (Book 5 and possibly Book 6).
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: User: Generate the summary of the book "The Richest Man in Babylon.
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Querying RAG with text: Generate the summary of the book "The Richest Man in Babylon.
+INFO: Response text: Here is a summary of the book "The Richest Man in Babylon" based on the provided context:
+
+The book, written by Napoleon Hill, shares the wisdom of Robert Kiyosaki's character, Kalabab, who was inspired by his mentor, Arkad. The story begins with Kalabab sharing tales of his adventures and then teaching a valuable lesson about how to make decisions effectively.
+
+The main message of the book is that wealth creation requires a combination of knowledge, strategy, and effort. The author emphasizes the importance of making smart financial decisions, such as:
+
+* Diversifying your income streams
+* Investing in assets that generate passive income
+* Solving problems that exist in the world, rather than just creating new ones
+* Focusing on wealth-building vehicles like stocks, bonds, real estate, and art
+
+The book also highlights the importance of mental attitude and mindset in achieving financial success. The author encourages readers to adopt a wealthy mindset, be open to new ideas and opportunities, and take calculated risks.
+
+Ultimately, the book teaches that creating wealth is not just about accumulating riches but about living a life of purpose, freedom, and fulfillment. By applying the principles outlined in the book, readers can join the ranks of the wealthy and enjoy the good life without worries.
+
+The key takeaway from the book's author, Napoleon Hill, is: "Double or triple your income and create enough wealth so you can enjoy the good life to your heart's desire without worries."
+INFO: Book Titles:
+1. The Little Book of Big Dividends A Safe Formula for Guaranteed Returns
+2. The Intelligent Investor
+3. THE LITTLE BOOK OF COMMON SENSE INVESTING 2017
+4. The Daily Stoic 366 Meditations on Wisdom, Perseverance, and the
+5. Principles  Life and Work
+6. think-and-grow-rich
+7. The Next Millionaire Next Door
+8. The Instant Millionaire
+9. Rich Dad Poor Dad
+10. The Way of the Superior Man
+11. The millionaire mind
+12. The Richest Man in Babylon
+13. Be a Dividend Millionaire A Proven, Low Risk Approach That Will
+14. The Automatic Millionaire
+15. Stoic Six Pack Meditations of Marcus Aurelius, Golden Sayings, Fragments
+16. Get rich with dividends a proven system for earning double digit
+17. How Rich People Think
+18. The Millionaire Fastlane
+INFO: Chatbot: Here is a summary of the book "The Richest Man in Babylon" based on the provided context:
+
+The book, written by Napoleon Hill, shares the wisdom of Robert Kiyosaki's character, Kalabab, who was inspired by his mentor, Arkad. The story begins with Kalabab sharing tales of his adventures and then teaching a valuable lesson about how to make decisions effectively.
+
+The main message of the book is that wealth creation requires a combination of knowledge, strategy, and effort. The author emphasizes the importance of making smart financial decisions, such as:
+
+* Diversifying your income streams
+* Investing in assets that generate passive income
+* Solving problems that exist in the world, rather than just creating new ones
+* Focusing on wealth-building vehicles like stocks, bonds, real estate, and art
+
+The book also highlights the importance of mental attitude and mindset in achieving financial success. The author encourages readers to adopt a wealthy mindset, be open to new ideas and opportunities, and take calculated risks.
+
+Ultimately, the book teaches that creating wealth is not just about accumulating riches but about living a life of purpose, freedom, and fulfillment. By applying the principles outlined in the book, readers can join the ranks of the wealthy and enjoy the good life without worries.
+
+The key takeaway from the book's author, Napoleon Hill, is: "Double or triple your income and create enough wealth so you can enjoy the good life to your heart's desire without worries."
+INFO: Saving chat history...
+INFO: Chat history saved successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: think-and-grow-rich
+INFO: PDF file for title 'think-and-grow-rich' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Retrieving PDF file for title: The Next Millionaire Next Door
+INFO: PDF file for title 'The Next Millionaire Next Door' retrieved successfully
+INFO: Displaying PDF...
+INFO: PDF displayed successfully
+INFO: Main function completed
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Starting main function...
+INFO: Testing connection to the model endpoint...
+INFO: Connection successful
+INFO: Loading chat history...
+INFO: Chat history loaded successfully
+INFO: Main function completed
