@@ -671,13 +671,7 @@ if __name__ == "__main__":
     main()
 
 ```
-The error message indicates that the directory specified by 
-
-data_dir
-
- does not exist. To resolve this, you need to ensure that the directory exists before attempting to load documents from it.
-
-You can add a check to create the directory if it does not exist. Here is the updated code:
+The error message indicates that the directory specified by data_dir does not exist. To resolve this, you need to ensure that the directory exists before attempting to load documents from it. You can add a check to create the directory if it does not exist. Here is the updated code:
 
 ```python
 import os
